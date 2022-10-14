@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "usuario.gls", "usuario.gls\usuario.gls.vbproj", "{B626A13E-C1D3-462E-BA2C-5D1C4ABB5E97}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{17CAF540-0519-43A4-B01F-11B053A97251}"
+	ProjectSection(SolutionItems) = preProject
+		XSLTFile1.xslt = XSLTFile1.xslt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B626A13E-C1D3-462E-BA2C-5D1C4ABB5E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B626A13E-C1D3-462E-BA2C-5D1C4ABB5E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B626A13E-C1D3-462E-BA2C-5D1C4ABB5E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B626A13E-C1D3-462E-BA2C-5D1C4ABB5E97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE009D63-1939-4EAF-B653-34530192BDD1}
+	EndGlobalSection
+EndGlobal
